@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @Ejote
 - 👀 Soy algo nuevo en esto, vivo en la CDMX, me gusta el helado de limón y la astronomía.
-- 🌱 Actualmente estoy aprendiendo PHP, Node y Phyton. 
+- 🌱 Actualmente estoy aprendiendo PHP, js, Node y Phyton. 
 - 💞️ Estoy en la disposición de ayudar con las dudas que tengas de wordpress y woocommerce. También sé de diseño gráfico.
 - 📫 En twitter estoy como @Ejote...
 
